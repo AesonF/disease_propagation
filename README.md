@@ -4,7 +4,7 @@
 Aeson Feehan, Romain Ilbert, Emmanuel Merone
 
 ## Languages
-The entire project is contained in the jupyter notebook and the explanations are in French.
+The entire project is contained in the jupyter notebook and the explanations of the code are in French.
 
 ## Description
 Construction of dynamic environments for simulating the propagation of infectious diseases, in Python.
